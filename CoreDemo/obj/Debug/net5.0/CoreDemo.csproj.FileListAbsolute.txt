@@ -189,3 +189,4 @@ C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Con
 C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\Index.cshtml.g.cs
 C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterProfile.cshtml.g.cs
 C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterMail.cshtml.g.cs
+C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\BlogLast3Post\Default.cshtml.g.cs
