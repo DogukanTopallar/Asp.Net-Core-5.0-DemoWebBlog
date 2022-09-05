@@ -190,3 +190,15 @@ C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Wri
 C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterProfile.cshtml.g.cs
 C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterMail.cshtml.g.cs
 C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\BlogLast3Post\Default.cshtml.g.cs
+C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\WriterLayout.cshtml.g.cs
+C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\Test.cshtml.g.cs
+C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterNavBarPartial.cshtml.g.cs
+C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterFooterPartial.cshtml.g.cs
+C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterMessageNotification\Default.cshtml.g.cs
+C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterNotification\Default.cshtml.g.cs
+C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Blog\BlogListByWriter.cshtml.g.cs
+C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Blog\BlogAdd.cshtml.g.cs
+C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Blog\EditBlog.cshtml.g.cs
+C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\BlogListDashboard\Default.cshtml.g.cs
+C:\Users\Dogukan\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryListDashboard\Default.cshtml.g.cs
